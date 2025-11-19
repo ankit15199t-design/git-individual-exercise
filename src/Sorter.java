@@ -3,6 +3,8 @@ import java.util.Arrays;
 public class Sorter {
 
     public static void main(String[] args) {
+
+        //Testing for Git Excercise
         int[] nums = {5, 1, 4, 2, 3};
         int[] sortedNums = sortInts(nums);
 
